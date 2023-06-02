@@ -108,6 +108,19 @@ p {
   }
   .mi-video {
     position: center;
-    align-items: center;
+    display: flex;
     width: 100px;
+  }
+
+  .mainexample {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;  
+    font-style: italic;
+    background-color: blueviolet;
+
+  }
+
+  .gretting {
+    text-align:center ;
   }
